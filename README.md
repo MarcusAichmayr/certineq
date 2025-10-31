@@ -2,7 +2,7 @@
 
 ## Description
 
-a SageMath package to work with linear inequality systems and certify (un)solvability of them
+SageMath package for linear inequality systems and certifying (un)solvability
 
 ## License
 
